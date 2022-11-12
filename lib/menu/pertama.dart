@@ -76,7 +76,7 @@ class _PertamaPageState extends State<PertamaPage> {
             },
             child: Text("Test Tanggal"),
           ),
-          MaterialButton(s
+          MaterialButton(
             onPressed: () {
               getTime(context);
             },
